@@ -1,4 +1,27 @@
 date,amount,category,description
-12-05-2024,,Income,
-24-07-2024,,Income,
-24-07-2024,123.0,Expense,
+01-07-2024,50.00,Expense,Weekly grocery shopping
+02-07-2024,15.75,Expense,Uber ride to office
+03-07-2024,30.00,Expense,Movie night with friends
+04-07-2024,120.00,Expense,New shoes
+05-07-2024,60.00,Expense,Monthly internet bill
+06-07-2024,25.50,Expense,Dinner at coffee shop
+07-07-2024,45.00,Expense,Additional groceries
+08-07-2024,75.00,Expense,Gym membership renewal
+09-07-2024,200.00,Expense,Train ticket for weekend trip
+10-07-2024,15.00,Expense,Lunch at a restaurant
+11-07-2024,10.00,Expense,Bus ticket
+12-07-2024,35.00,Expense,Concert ticket
+13-07-2024,50.00,Expense,New book
+14-07-2024,25.00,Expense,Brunch with colleagues
+15-07-2024,100.00,Expense,Doctor appointment
+16-07-2024,30.00,Expense,Weekly grocery shopping
+17-07-2024,20.00,Expense,Taxi fare
+18-07-2024,150.00,Expense,Clothing
+19-07-2024,55.00,Expense,Amusement park ticket
+20-07-2024,80.00,Expense,Gas for road trip
+21-07-2024,1500.00,Income,Monthly salary
+22-07-2024,200.00,Income,Freelance project payment
+23-07-2024,100.00,Income,Gift from family
+24-07-2024,50.00,Income,Selling old books
+25-07-2024,300.00,Income,Bonus from work
+24-07-2024,234.0,Income,salary
